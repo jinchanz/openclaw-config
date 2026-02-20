@@ -4,6 +4,9 @@
 *.env
 secrets/
 
+# 私密对话日志 - 不提交
+memory/
+
 # 日志和临时文件
 *.log
 tmp/
