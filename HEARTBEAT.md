@@ -19,6 +19,7 @@
 - [ ] 整理当天 memory 记录
 - [ ] 回顾是否有重要内容需要提炼到 MEMORY.md
 - [ ] 生成简单的当日总结
+- [ ] **在 journal 仓库写当天日记** (`/mnt/e/claw/journal/diary/YYYY-MM-DD.md`)
 
 ## 原则
 
