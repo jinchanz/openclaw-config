@@ -27,28 +27,36 @@
 
 ---
 
-## 🏗️ Comfy Cloud 平台定位
+## 🏗️ ComfyAgent 平台定位（2026-03-03 更名）
 
-**AI 应用 PaaS 平台** — 让任何人能把 AI 工作流变成可共享的 APP 和 API
+**AI Agent 全栈平台** — 让任何 AI 能力从构建到上线，只需一个平台
+
+### 更名背景
+- 原名：ComfyCloud（AI 应用 PaaS 平台）
+- 新名：**ComfyAgent**（2026-03-03 确认）
+- 原因：平台从"工作流 PaaS"升级为"Agent 全栈平台"，需体现 Agent 核心定位
+
+### 核心能力
+1. **Agent 在线构建** — 可视化搭建 Agent
+2. **Ship Agent** — 一键部署到平台
+3. **多 Channel 触达** — 钉钉/微信等多端集成
+4. **AI 应用 PaaS** — 应用托管与 API 自动生成
+5. **ComfyUI Studio** — 工作流可视化编排（底层能力）
 
 ### 规模
 - 100+ GPU
 - 500 万 + 任务
 - 1000 万 + 生成结果
 
-### 核心组件
-- **Comfy Studio**：在线工作流搭建与执行
-- **AppBuilder**：工作流一键生成 APP + Playground
-- **OpenAPI 自动生成**：每个 APP 自动提供 API 文档
-- **Worker 管理平台**：业务通道机制，GPU 资源隔离调度
+### 推荐 Slogan（待最终确认）
+- "Build. Ship. Scale."
+- 定位语：「ComfyAgent — AI Agent 全栈平台：在线构建、一键部署、多渠道触达」
 
-### 新方向：Agent 工具层
-平台生成的 APP 和 API 天然可以成为 Agent 的工具：
-- 每个 APP 有 OpenAPI 文档
-- 参数定义清晰、功能描述明确、结果格式固定
-- 可以直接被 Agent 调用
-
-**差异化**：低门槛创建工具，在平台上直接创建，一键接入 Agent
+### 差异化
+- 全链路：从构建到部署到触达，一站式完成
+- 低门槛：无需代码，可视化构建 Agent
+- 多渠道：一次构建，多端部署（钉钉、微信等）
+- 服务化：所有能力自动生成 OpenAPI，可被任意 Agent 调用
 
 ---
 
